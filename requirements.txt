@@ -1,0 +1,8 @@
+time
+random
+re
+cv2
+numpy
+mss
+pytesseract
+keyboard
